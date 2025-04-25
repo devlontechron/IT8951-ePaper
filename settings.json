@@ -1,0 +1,27 @@
+{
+    "DeviceInfo": 
+    {
+        "deviceName": "HomeFrame",
+        "deviceType": "frame10",
+        "deviceId": "macAddress",
+        "version": "1.0.0"
+    },
+    "WifiSettings": 
+    {
+        "wifiName": "Empty",
+        @password
+        "wifiPassword": "MyWiFiPassword"
+    },    
+    "AccountSettings": 
+    {
+        "accountEmail": "dj95durham@outlook.com",
+        @password
+        "accountPassword": "MyAccountPassword"
+    },
+    "DeviceSettings": 
+    {
+        "brightness": 70,
+        "screenTimeout": 30,
+        "autoRotate": true
+    },
+}
